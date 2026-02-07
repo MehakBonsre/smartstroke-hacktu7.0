@@ -1,0 +1,29 @@
+[
+    {
+        "id": "o1",
+        "dealerId": "d1",
+        "buyerName": "Rahul Sharma",
+        "productId": "p1",
+        "quantity": 10,
+        "status": "Delivered",
+        "deliveryDate": "2026-02-04"
+    },
+    {
+        "id": "o2",
+        "dealerId": "d3",
+        "buyerName": "Sanjay Gupta",
+        "productId": "p3",
+        "quantity": 50,
+        "status": "Pending",
+        "deliveryDate": "2026-02-10"
+    },
+    {
+        "id": "o3",
+        "dealerId": "d2",
+        "buyerName": "Priya Singh",
+        "productId": "p2",
+        "quantity": 5,
+        "status": "Shipped",
+        "deliveryDate": "2026-02-08"
+    }
+]

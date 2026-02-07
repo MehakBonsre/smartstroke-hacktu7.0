@@ -1,0 +1,24 @@
+[
+    {
+        "id": "rs1",
+        "sellerId": "user1",
+        "paintName": "Royal Velvet Blue",
+        "quantity": 5,
+        "condition": "Sealed",
+        "price": 450,
+        "location": "Mumbai, Maharashtra",
+        "status": "Active",
+        "createdAt": "2026-02-01T10:00:00Z"
+    },
+    {
+        "id": "rs2",
+        "sellerId": "user2",
+        "paintName": "Himalayan White",
+        "quantity": 2,
+        "condition": "Opened",
+        "price": 300,
+        "location": "Delhi, NCR",
+        "status": "Active",
+        "createdAt": "2026-01-20T12:00:00Z"
+    }
+]

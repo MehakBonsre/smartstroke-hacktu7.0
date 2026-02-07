@@ -1,0 +1,62 @@
+[
+  {
+    "id": "p1",
+    "name": "Royal Luxury Emulsion - Terracotta",
+    "category": "Emulsion",
+    "region": "North",
+    "warehouseStock": 1200,
+    "dealerStock": 350,
+    "price": 450,
+    "lastSoldDate": "2026-02-01"
+  },
+  {
+    "id": "p2",
+    "name": "Apcolite Gloss Enamel - White",
+    "category": "Enamel",
+    "region": "South",
+    "warehouseStock": 800,
+    "dealerStock": 150,
+    "price": 320,
+    "lastSoldDate": "2025-12-10"
+  },
+  {
+    "id": "p3",
+    "name": "Tractor Distemper - Sky Blue",
+    "category": "Distemper",
+    "region": "West",
+    "warehouseStock": 2000,
+    "dealerStock": 600,
+    "price": 180,
+    "lastSoldDate": "2026-02-05"
+  },
+  {
+    "id": "p4",
+    "name": "Ace Exterior Emulsion - Grey",
+    "category": "Emulsion",
+    "region": "East",
+    "warehouseStock": 500,
+    "dealerStock": 50,
+    "price": 550,
+    "lastSoldDate": "2026-01-20"
+  },
+  {
+    "id": "p5",
+    "name": "SmartCare Waterproofing Primer",
+    "category": "Primer",
+    "region": "South",
+    "warehouseStock": 300,
+    "dealerStock": 20,
+    "price": 850,
+    "lastSoldDate": "2025-11-15"
+  },
+  {
+    "id": "p6",
+    "name": "Nilaya Texture Paint - Metallic Gold",
+    "category": "Texture",
+    "region": "North",
+    "warehouseStock": 150,
+    "dealerStock": 10,
+    "price": 1200,
+    "lastSoldDate": "2026-02-06"
+  }
+]
