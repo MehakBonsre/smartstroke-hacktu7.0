@@ -1,0 +1,9 @@
+{
+    "name": "impact-coders-root",
+    "version": "1.0.0",
+    "scripts": {
+        "dev": "npm run dev --prefix SMARTSTOCK",
+        "start-backend": "npm run start-backend --prefix SMARTSTOCK",
+        "start-frontend": "npm run start-frontend --prefix SMARTSTOCK"
+    }
+}
