@@ -1,0 +1,37 @@
+[
+  {
+    "id": "d1",
+    "name": "Aryan Paints & Hardware",
+    "region": "North",
+    "inventory": 450,
+    "healthScore": 85
+  },
+  {
+    "id": "d2",
+    "name": "Krishna Decorators",
+    "region": "South",
+    "inventory": 120,
+    "healthScore": 45
+  },
+  {
+    "id": "d3",
+    "name": "Venkateshwara Enterprise",
+    "region": "West",
+    "inventory": 600,
+    "healthScore": 92
+  },
+  {
+    "id": "d4",
+    "name": "Eastern Blue Paints",
+    "region": "East",
+    "inventory": 300,
+    "healthScore": 70
+  },
+  {
+    "id": "d5",
+    "name": "Global Paint Solutions",
+    "region": "Central",
+    "inventory": 250,
+    "healthScore": 60
+  }
+]

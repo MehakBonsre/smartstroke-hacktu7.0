@@ -1,0 +1,32 @@
+[
+    {
+        "region": "North",
+        "searches": 1500,
+        "shadeViews": 4500,
+        "availabilityChecks": 800
+    },
+    {
+        "region": "South",
+        "searches": 1200,
+        "shadeViews": 3200,
+        "availabilityChecks": 400
+    },
+    {
+        "region": "West",
+        "searches": 1800,
+        "shadeViews": 5000,
+        "availabilityChecks": 1200
+    },
+    {
+        "region": "East",
+        "searches": 600,
+        "shadeViews": 1500,
+        "availabilityChecks": 200
+    },
+    {
+        "region": "Central",
+        "searches": 900,
+        "shadeViews": 2200,
+        "availabilityChecks": 500
+    }
+]
